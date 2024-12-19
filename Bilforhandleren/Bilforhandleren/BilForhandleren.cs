@@ -24,5 +24,10 @@ namespace Bilforhandleren
                 new Bil("Ford", 2010, "NE65133", 120000),
             ];
         }
+
+        public void GoToStore()
+        {
+            
+        }
     }
 }

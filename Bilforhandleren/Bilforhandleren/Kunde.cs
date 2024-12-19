@@ -20,5 +20,7 @@ namespace Bilforhandleren
         {
             Console.WriteLine($"{name}");
         }
+        public string GetName()
+        { return name; }
     }
 }
